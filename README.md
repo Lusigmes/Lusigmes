@@ -2,8 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 I'm currently looking for a job. Atualmente estou buscando um emprego.
-- Estou reorganizando alguns repositórios, logo, estão faltando alguns códigos. Logo estarei adicionando novamente.
+- 🔭 Atualmente estou buscando um emprego (I'm currently looking for a job.).
+- Estou reorganizando alguns repositórios...
  
 ## Ferramentas e Tecnologias
 <div>
