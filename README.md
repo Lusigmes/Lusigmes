@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou buscando um emprego (I'm currently looking for a job.).
-- Estou reorganizando em: https://github.com/Lusitug
+- Estou desenvolvendo projetos para o repositório: https://github.com/Lusitug. (tentando criar um portifólio 'atraente')
  
 ## Ferramentas e Tecnologias
 <div>
