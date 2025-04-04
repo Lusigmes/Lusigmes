@@ -4,7 +4,9 @@
 
 - 🔭 Atualmente estou buscando um emprego (I'm currently looking for a job.).
 - Estou desenvolvendo projetos para o repositório: https://github.com/Lusitug. (tentando criar um portifólio 'atraente')
- 
+- Tenho interesse em desenvolvimento backend, mas também já tive algumas experiências como full stack.
+- Estou realizando pesquisa e desenvolvimento nas áreas da Visão Computacional e Aprendizado de Máquina.
+
 ## Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -36,5 +38,10 @@
 
   
 <hr>
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00raoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=00raoni&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
   
