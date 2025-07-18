@@ -2,11 +2,12 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou buscando um emprego (I'm currently looking for a job.).
-- Estou desenvolvendo projetos para o repositório: https://github.com/Lusitug. (tentando criar um portifólio 'atraente')
-- Tenho interesse em desenvolvimento backend, mas também já tive algumas experiências como full stack.
-- Estou realizando pesquisa e desenvolvimento nas áreas da Visão Computacional e Aprendizado de Máquina.
-
+- 🔭 Atualmente estou buscando um emprego.
+- Tenho experiência como desenvolvedor FullStack.
+- Tenho interesse em:
+    - Desenvolvimento Backend;
+    - Desenvolvimento de soluções para aplicações do mundo real.
+    - Escrita de artigos ciêntificos/acadêmicos.
 ## Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
